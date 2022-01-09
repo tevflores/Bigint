@@ -14,3 +14,6 @@ std::vector<vec_bin> number;
 
 Which you can read as “a number is a vector of vec_bins” while a vec_bin is
 an integer type that will represent a single digit of a number.
+
+
+# fact.h & fact
